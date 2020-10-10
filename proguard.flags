@@ -1,1 +1,1 @@
--keep class com.blissroms.updater.ui.FlingBehavior { *; }
+-keep class com.zenx.updater.ui.FlingBehavior { *; }
